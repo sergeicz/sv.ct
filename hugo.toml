@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "/img/author.webp"
 
   links = [
-    { booking = { href = "https://girlsboxing.ru", text = "Сайт" } },
+    # { booking = { href = "https://girlsboxing.ru", text = "Сайт" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },

@@ -1,20 +1,20 @@
-baseURL = "https://oli69.ru/"
+baseURL = "https://xkriemhiltx.ru/"
 languageCode = "ru"
 defaultContentLanguage = "en"
 
-title = "Ольга Горбатенко"
+title = "Тайский Бокс для Девушек Санкт-Петербург"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  name = "Ольга Горбатенко"
-  headline = "Стрижки в любом стиле"
-  image = "/img/author.jpg"
+  name = "Тайский Бокс"
+  headline = "Для Девушек в СПб"
+  image = "/img/author.webp"
 
   links = [
-    { booking = { href = "https://dikidi.ru/oli69", text = "Записаться онлайн" } },
+    { booking = { href = "https://girlsboxing.ru", text = "Сайт" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-     { instagram = "https://www.instagram.com/olinicholls69" },
+     { instagram = "https://www.instagram.com/xkriemhiltx" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -49,13 +49,13 @@ disableKinds = ["taxonomy", "term"]
     # { stack-exchange = "https://stackexchange.com/users/userid/username" },
     # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
-     { telegram = "https://t.me/Nicholls69" },
+     { telegram = "https://t.me/xkriemhiltx" },
     # { threads = "https://threads.com/username" },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-     { whatsapp = "https://wa.me/+79312087791" },
+    # { whatsapp = "https://wa.me/+79312087791" },
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]

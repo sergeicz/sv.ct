@@ -13,9 +13,9 @@ disableKinds = ["taxonomy", "term"]
   headline = "Подписаться на наш"
   image = "/img/author.png"
 
-  links = [
-     { booking = { "https://tg.svoyi.ru/channel", text = "Telegram канал" } },
-  ]
+links = [
+  { booking = { href = "https://tg.svoyi.ru/channel", text = "Telegram канал" } },
+]
 
 [module]
   [module.hugoVersion]

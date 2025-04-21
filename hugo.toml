@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "/img/author.png"
 
   links = [
-     { booking = { href = "tg.svoyi.ru/channel", text = "Telegram канал" } },
+     { booking = { "https://tg.svoyi.ru/channel", text = "Telegram канал" } },
   ]
 
 [module]
